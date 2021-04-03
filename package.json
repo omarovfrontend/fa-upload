@@ -1,0 +1,26 @@
+{
+  "name": "fa-upload",
+  "version": "1.0.0",
+  "description": "Вёрстка \"загрузчика файла\", на HTML, CSS и чистом JavaScript ^_^ ⚡️🚀",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarovfrontend/fa-upload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarovfrontend/fa-upload/issues"
+  },
+  "homepage": "https://github.com/omarovfrontend/fa-upload#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "firebase": "^8.3.2"
+  }
+}
